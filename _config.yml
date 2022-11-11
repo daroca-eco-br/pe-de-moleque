@@ -2,7 +2,7 @@
 title: "Pé de Moleque"
 description: "Um Podcast de cultura e política de Piranguinho, MG"
 podcast-description: "Um Podcast de cultura e política de Piranguinho, MG"
-url:  "https//pedemoleque.github.io/" # Actual base url of the website
+url:  "https://daroca-eco-br.github.io/pe-de-moleque/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Beta Brandão"
